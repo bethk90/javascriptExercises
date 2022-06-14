@@ -10,3 +10,4 @@ Links and resources:<br>
 <li>Challenge One - Print all even numbers from 0 – 10 | <a href = "exercise1.js">Solution</a<</li>
 <li>Challenge Two - Print a table containing multiplication tables | <a href = "exercise2.js">Solution</a<</li>
 <li>Challenge Three - Create a length converter function | <a href = "exercise3.js">Solution</a<</li>
+<li>Challenge Four - Calculate the sum of numbers within an array | <a href = "exercise4.js">Solution</a<</li>
